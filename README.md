@@ -1,10 +1,4 @@
 # Umrechner-Csharp
 
 
-Dies ist eine neue Zeile
-
-
-Dies ist die zweite Änderung
-
-
-Dies ist die 3. Änderung
+### Dieses Projekt ist durch einer Umschulung entworfen worden und kann frei verwendet werden.
